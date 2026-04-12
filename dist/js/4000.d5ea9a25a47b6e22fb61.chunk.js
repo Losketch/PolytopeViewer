@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4e3],{4e3:function(e,s,f){e.exports=f.p+"assets/Square_tiling.6d0447f68f7853031009.off"}}]);

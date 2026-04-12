@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3378],{3378:function(s,c,e){s.exports=e.p+"assets/Triangular_tiling.0c6abca8f12fcc2b62e8.off"}}]);

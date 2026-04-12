@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9054],{9054:function(e,f,s){e.exports=s.p+"assets/Hexagonal_tiling.f737fe1ec0323f346f21.off"}}]);

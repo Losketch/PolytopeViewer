@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9990],{7609:function(e,s,a){e.exports=a.p+"assets/Petrial_triangular_tiling.b7ce875aae7cb83cd782.off"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[876],{876:function(e,s,c){e.exports=c.p+"assets/Petrial_square_tiling.75cae19c250db7bdcf97.off"}}]);

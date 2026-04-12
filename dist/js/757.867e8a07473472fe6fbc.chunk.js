@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[757],{757:function(e,s,a){e.exports=a.p+"assets/Petrial_hexgonal_tiling.a9ec85faa8d6866713bc.off"}}]);
